@@ -22,10 +22,6 @@ This project controls a servo motor using a PWM signal. It generates a pulse wid
 - Adjustable speed of the servo sweep.
 - Reset functionality to restart the sweep cycle.
 
-## Getting Started
-
-To get started with this project, you need to have a working FPGA development environment with support for Verilog. This project is configured to work with a 100 MHz clock source to achieve the necessary timing for PWM control.
-
 
 ## Hardware Used
 
